@@ -1,0 +1,31 @@
+<div class="h-96 w-96 p-4">
+
+    <div class="w-full h-80 flex">
+
+        <div class="m-auto text-center">
+
+            <h1 class="text-2xl text-gray-800">
+                Welcome to Lucía
+            </h1>
+    
+            <p class="text-lg text-gray-700">
+                The Chrome-Extension-Framework!
+            </p>
+
+            <p class="text-gray-600 font-medium">
+                TailwindCSS / AlpineJS CSP / JQuery
+            </p>
+
+            <div x-data="counter" class="pt-4 flex flex-col">
+
+                <p class="text-lg" x-text="count"></p>
+
+                <button @click="increment" class="text-blue-500 text-lg">Increment number</button>
+                
+                <small class="text-gray-400">(example counter made with AlpineJS CSP)</small>
+                
+                <button class="text-blue-500 pt-4" href="index@option&open_window">Open options page</button>
+            </div>
+        </div>
+    </div>
+</div>
