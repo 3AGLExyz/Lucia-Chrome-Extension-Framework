@@ -40,6 +40,9 @@ _Normally, to get all this into an extension takes some time due to the policies
    ```js
    chrome://extensions/
    ```
+   
+   [Read the full "Get-Started" article in the Wiki](https://github.com/3AGLExyz/Lucia-Chrome-Extension-Framework/wiki/Getting-Started)
+   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
