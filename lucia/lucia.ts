@@ -7,7 +7,7 @@ var $ = require( "jquery" );
 // Include Alpine the cdn as local dependency, becuase csp is not available as package
 require('./cdn/alpinejs-csp-min.js');
 
-require('../resources/js/includes.ts');
+require('../resources/js/lucia.ts');
 
 require('./alpine.js');
 
