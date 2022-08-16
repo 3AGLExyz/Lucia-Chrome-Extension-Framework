@@ -9,8 +9,6 @@ require('./cdn/alpinejs-csp-min.js');
 
 require('../resources/js/lucia.ts');
 
-require('./alpine.js');
-
 // View Loader
 var viewLoader = require( "./view-loader" );
 viewLoader.init();
